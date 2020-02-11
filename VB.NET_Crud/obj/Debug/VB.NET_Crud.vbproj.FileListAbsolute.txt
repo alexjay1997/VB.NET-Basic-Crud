@@ -1,0 +1,17 @@
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\obj\Debug\VB.NET_Crud.vbprojAssemblyReference.cache
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\obj\Debug\VB.NET_Crud.Form1.resources
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\obj\Debug\VB.NET_Crud.Resources.resources
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\obj\Debug\VB.NET_Crud.vbproj.GenerateResource.cache
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\bin\Debug\VB.NET_Crud.exe.config
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\bin\Debug\VB.NET_Crud.exe
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\bin\Debug\VB.NET_Crud.pdb
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\bin\Debug\VB.NET_Crud.xml
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\bin\Debug\MySql.Data.dll
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\bin\Debug\Google.Protobuf.dll
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\bin\Debug\Renci.SshNet.dll
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\bin\Debug\MySql.Data.xml
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\obj\Debug\VB.NET_Crud.vbproj.CopyComplete
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\obj\Debug\VB.NET_Crud.exe
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\obj\Debug\VB.NET_Crud.xml
+C:\Users\Fauni\source\repos\VB.NET_Crud\VB.NET_Crud\obj\Debug\VB.NET_Crud.pdb
